@@ -1,0 +1,16 @@
+{
+    "name": "easylaravel/xiaochengxu",
+    "description": "wechat xiaochengxu plugins",
+    "license": "MIT",
+    "authors": [{
+        "name": "songsong'mac",
+        "email": "cs686@126.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EasyLaravel\\Xiaochengxu\\": "src/"
+        }
+    }
+}
