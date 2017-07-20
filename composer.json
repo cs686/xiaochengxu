@@ -6,8 +6,10 @@
         "name": "songsong'mac",
         "email": "cs686@126.com"
     }],
-    "minimum-stability": "stable",
-    "require": {},
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
     "autoload": {
         "psr-4": {
             "EasyLaravel\\Xiaochengxu\\": "src/"
