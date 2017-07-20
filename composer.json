@@ -10,6 +10,10 @@
     "require": {
         "php": ">=5.6"
     },
+    "repositories": [{
+        "type": "vcs",
+        "url": "git@github.com:cs686/xiaochengxu.git"
+    }],
     "autoload": {
         "psr-4": {
             "EasyLaravel\\Xiaochengxu\\": "src/"
